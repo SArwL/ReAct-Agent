@@ -1,0 +1,14 @@
+{
+  "command_whitelist": [
+    "dir", "type", "cd", "echo", "where", "ver",
+    "hostname", "tasklist", "systeminfo", "help", "chcp"
+  ],
+  "command_blacklist": [
+    "format", "shutdown", "taskkill",
+    "reg", "net", "sc", "attrib", "cipher", "diskpart"
+  ],
+  "tool_whitelist": [
+    "read_file"
+  ],
+  "tool_blacklist": []
+}

@@ -1,0 +1,6 @@
+{
+  "api_key": "在此填入你的 DeepSeek API Key",
+  "base_url": "https://api.deepseek.com/anthropic",
+  "model": "deepseek-v4-flash",
+  "max_steps": 30
+}
